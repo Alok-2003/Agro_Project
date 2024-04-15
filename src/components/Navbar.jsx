@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <div className='absolute w-full flex justify-between p-4 items-center'>
       <div className=''>
-        <img className="mb-2 mr-2 w-11 h-11 z-20 inline-block" src='public\logo_agriX.png' alt='images'></img>
+        <img className="mb-2 mr-2 w-11 h-11 z-20 inline-block" src='/logo_agriX.png' alt='images'></img>
         <h1 className='text-white font-bold text-3xl z-30 inline-block '>AgroUnity Network</h1>
       </div>
 
